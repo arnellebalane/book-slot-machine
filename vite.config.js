@@ -10,8 +10,7 @@ export default {
     alias: {
       '@': path.resolve(__dirname, 'src'),
       '@components': path.resolve(__dirname, 'src/components'),
-      '@lib': path.resolve(__dirname, 'src/lib'),
-      '@styles': path.resolve(__dirname, 'src/styles'),
+      '@images': path.resolve(__dirname, 'src/images'),
     },
   },
 
